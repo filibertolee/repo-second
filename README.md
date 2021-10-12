@@ -1,2 +1,2 @@
 # repo-second
-This is our 2nd repository
+This is our second repository
